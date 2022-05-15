@@ -6,6 +6,13 @@
 
 ![Imagen5](https://user-images.githubusercontent.com/105598884/168482324-9682e140-62f4-482e-8dd7-232252a0807b.png)
 
+
+
+hello my name is Caleb Romanos I am from Argentina Buenos Aires. I am entering the world of programming.
+I hope to be able to share good projects and let's all learn together.
+
+
+
 <!--
 **CalebRRo/CalebRRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
