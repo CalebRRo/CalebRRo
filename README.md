@@ -5,8 +5,6 @@
 ### I like latte ☕
 
 
-hello my name is Caleb Romanos I am from Argentina Buenos Aires. I am entering the world of programming.
-I hope to be able to share good projects and let's all learn together.
 
 ### Instagram: [https://www.instagram.com/calebrr26/](https://www.instagram.com/calebrr26/)
 
