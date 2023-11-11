@@ -1,12 +1,6 @@
 ![BannerCaleb](https://github.com/CalebRRo/BannerGitHub/assets/105598884/c06d80a3-71ac-4355-becc-d5af47c1587f)
 
-### Hello World!! 👋
-### I’m Caleb 👨🏽‍💻
-### I like latte ☕
 
-
-
-### Instagram: [https://www.instagram.com/calebrr26/](https://www.instagram.com/calebrr26/)
 
 <!--
 **CalebRRo/CalebRRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
